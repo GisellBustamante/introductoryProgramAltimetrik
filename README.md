@@ -1,4 +1,4 @@
-<h1 align="center"; style= "color: blue">BFEDA 2ND Edition - Introductory Program</h1>
+<h1 align="center">BFEDA 2ND Edition - Introductory Program</h1>
 
 
 
