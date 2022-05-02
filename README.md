@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F71F71&background=0FE2FF00&center=true&vCenter=true&multiline=true&width=415&height=62&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 <h1 align="center">BFEDA 2ND Edition - Introductory Program</h1>
 
 
