@@ -11,7 +11,7 @@ Here I will be writing the bibliography consulted in order to organize my study-
 <p align="center">Here's the link to my <a href="https://trello.com/b/8vJOme67/bfeda-gisell-bustamante">Trello</a></p>
 
 <hr>
-## 🔧 Bibliography
+## 🔧 Bibliography                  --------    First   Week    --------
 
 |     git      |                                   Details                                   |  
 | :----------: | :-------------------------------------------------------------------------: | 
