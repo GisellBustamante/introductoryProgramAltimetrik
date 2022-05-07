@@ -27,3 +27,7 @@ Here I will be writing the bibliography consulted in order to organize my study-
 |  git rebase  | https://betterprogramming.pub/differences-between-git-merge-and-rebase-and  |
 |     flows    |                 https://www.gitkraken.com/learn/git/git-flow                |
 |   branching  |            https://www.flagship.io/git-branching-strategies/                |
+|      JS      |      https://www.tutorialsteacher.com/javascript/javascript-hoisting        |
+|      JS      |                  https://www.w3schools.com/whatis/whatis_js.asp             |
+|      JS      |                https://www.javascripttutorial.net/javascript-bom/           | 
+|      JS      |               https://www.investopedia.com/terms/b/bill-of-materials.asp    |
